@@ -18,8 +18,11 @@ Recruitment workflows enabling players to submit requests to join tournaments or
 Optional file storage with MinIO, which can be replaced with other cloud storage services.
 
 Contribution – Ali’s Work
+
 My primary focus in Kashaf was on Players, Requests, AI-driven features, and Email integration (SMTP Gmail).
+
 Additionally, I contributed support to Club recruitment workflows, Tournament rescheduling, and Sponsor-related features.
+
 
 Endpoints Developed:-
 
